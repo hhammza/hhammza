@@ -75,7 +75,7 @@
 
 - **Founder & President, LoopLab**: grew a national-level student tech community to 1,000+ members in under 6 months through workshops and peer-learning events in AI and software development
 - **President, Microsoft Learn Student Ambassadors (MLSA), COMSATS Lahore**: led technical sessions, hackathons, and Microsoft technology workshops
-- **Campus Ambassador, PF-PUCon'25**
+- **Top Coordination Ambassador, PF-PUCon'25**
 
 ---
 
