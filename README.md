@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BS Computer Science student at **COMSATS University Islamabad, Lahore Campus** (CGPA: 3.45 / 4.00)
+- 🎓 BS Computer Science student at **COMSATS University Islamabad, Lahore Campus** 
 - 🤖 Focused on **Machine Learning, AI, and data-driven systems** across healthcare, NLP, and bioinformatics
 - 🌱 Founder of **LoopLab**, a student tech community of **1,000+ members**
 - 🏅 Former President of **Microsoft Learn Student Ambassadors (MLSA)**, COMSATS Lahore
